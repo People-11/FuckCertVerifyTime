@@ -13,7 +13,7 @@ Hook Api CertVerifyTimeValidity和GetLocalTime。
 
 
 ##### [HackedTeamCerts](https://github.com/Rafiot/HackedTeamCerts)
-####[HackTeam]（https://github.com/qq892640791/HackedTeamCerts）
+#### [HackTeam](https://github.com/qq892640791/HackedTeamCerts)
 一些泄露的证书，已经被注销.
 
 ##### [代码签名数字证书](./代码签名数字证书)
